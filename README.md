@@ -13,7 +13,7 @@
 
 -------
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaladabrio2020&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaladabrio2020&show_icons=true&theme=dracula)\
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaladabrio2020&layout=compact&show_icons=true&theme=dracula)
 
 <!--
