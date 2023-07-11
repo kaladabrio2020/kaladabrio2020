@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Oi, me chamo Mateus Sousa  👋
+-------
+![](https://img.shields.io/github/followers/{kaladabrio2020}.svg?style=social&label=Follow&maxAge=2592000)
+-------
 <!--
 **kaladabrio2020/kaladabrio2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
