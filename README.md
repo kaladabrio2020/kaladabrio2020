@@ -9,9 +9,10 @@
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
+-------
 
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaladabrio2020&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaladabrio2020&layout=compact&show_icons=true&theme=dracula)
 
 
 
