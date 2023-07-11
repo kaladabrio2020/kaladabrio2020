@@ -1,8 +1,21 @@
-### Oi, me chamo Mateus Sousa  👋
+### Me chamo Mateus Sousa  👋
 -------
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-sousa-737696268/)
-![](https://img.shields.io/github/followers/{kaladabrio2020}.svg?style=social&label=Follow&maxAge=2592000)
+
+* Matemática Industrial na Universidade Federal do Ceará [U.F.C](https://www.ufc.br/)
+* Data science 
 -------
+[![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.gnome.org/)\
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+
+
+
+
+
+
+
 <!--
 **kaladabrio2020/kaladabrio2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
