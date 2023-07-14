@@ -15,9 +15,10 @@
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 -------
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaladabrio2020&show_icons=true&theme=dracula)\
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaladabrio2020&layout=compact&show_icons=true&theme=dracula)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=kaladabrio2020&show_icons=true&theme=dracula"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaladabrio2020&layout=compact&show_icons=true&theme=dracula"/>
+</div>
 
 <!--
 **kaladabrio2020/kaladabrio2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
