@@ -1,4 +1,4 @@
-# Olá, me chamo Mateus  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/People%20with%20professions//Technologist%20Light%20Skin%20Tone.png" alt="Cat with Tears of Joy" width="55" height="55" />
+# Olá, me chamo Mateus  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/People%20with%20professions//Technologist%20Light%20Skin%20Tone.png" alt="Cat with Tears of Joy" width="58" height="58" />
 
 -------
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-sousa-737696268/)
