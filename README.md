@@ -1,8 +1,6 @@
 # Olá, me chamo Mateus <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/People%20with%20professions//Technologist%20Light%20Skin%20Tone.png" alt="Cat with Tears of Joy" width="62" height="62"/>
 
 
-------
-
 <div>
   <a href="http://mateus.1090ptbr0@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" height="25"   />
@@ -21,8 +19,8 @@
 
 * Faço Matemática Industrial/Data Science na [Universidade Federal do Ceará](https://www.ufc.br/)
 * Entusiasta pelo desenvolvimento front-end (react-native)
--------
-# Tecnologias e Ferramentas
+
+## Tecnologias e Ferramentas
 
 <div>
   <a href="https://www.gnome.org/">
