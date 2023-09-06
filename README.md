@@ -1,25 +1,25 @@
 # Olá, me chamo Mateus <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/People%20with%20professions//Technologist%20Light%20Skin%20Tone.png" alt="Cat with Tears of Joy" width="62" height="62"/>
 
-
-<div>
+<div> 
+  
   <a href="http://mateus.1090ptbr0@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" height="25"   />
+    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" height="23"  />
   </a>
   
   <a href="https://www.linkedin.com/in/mateus-sousa-737696268/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="23" />
   </a>
   
   <a href="">
     <img src="https://img.shields.io/github/followers/kaladabrio2020.svg?style=social&label=Follow&maxAge=2592000" >
   </a>
-
+  
 </div>
-
 
 * Faço Matemática Industrial/Data Science na [Universidade Federal do Ceará](https://www.ufc.br/)
 * Entusiasta pelo desenvolvimento front-end (react-native)
 
+  
 ## Tecnologias e Ferramentas
 
 <div>
