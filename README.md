@@ -3,7 +3,7 @@
 ------
 
 <div>
-  <a href="https://mail.google.com/mail/u/?authuser=gabrieladecarvalhobezerra@gmail.com">
+  <a href="https://mail.google.com/mail/u/?authuser=gabrieladecarvalhobezerra@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" height="25"   />
   </a>
   
