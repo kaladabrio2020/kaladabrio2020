@@ -17,7 +17,7 @@
 </div>
 
 * Faço Matemática Industrial/Data Science na [Universidade Federal do Ceará](https://www.ufc.br/)
-* Entusiasta pelo desenvolvimento front-end (react-native)
+* Entusiasta pelo desenvolvimento front-end (react-native && reactj)
 
   
 ## Tecnologias e Ferramentas
