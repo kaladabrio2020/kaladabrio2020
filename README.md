@@ -3,15 +3,15 @@
 <div> 
   
   <a href="http://mateus.1090ptbr0@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" height="23"  />
+    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" height="25"  />
   </a>
   
   <a href="https://www.linkedin.com/in/mateus-sousa-737696268/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="23" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
   </a>
   
   <a href="">
-    <img src="https://img.shields.io/github/followers/kaladabrio2020.svg?style=social&label=Follow&maxAge=2592000" >
+    <img src="https://img.shields.io/github/followers/kaladabrio2020.svg?style=social&label=Follow&maxAge=2592000" eight="25" >
   </a>
   
 </div>
