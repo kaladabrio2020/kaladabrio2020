@@ -41,8 +41,10 @@
 
 -------
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=kaladabrio2020&show_icons=true&theme=tokyonight"/>
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaladabrio2020&layout=compact&show_icons=true&theme=tokyonight"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaladabrio2020&theme=default&utcOffset=8"/>
+  <img height="195em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaladabrio2020&theme=default"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaladabrio2020&theme=default"/>
+
 </div>
 
 <!--
