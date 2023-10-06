@@ -32,12 +32,26 @@
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" height="25"/>
   </a>
+    <a href="https://github.com/kaladabrio2020/AnalisandoFortunas">
+    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" height="25"/>
+  </a>
+  
 </div>
       
 
-[![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)](https://github.com/kaladabrio2020/AnalisandoFortunas)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+<div>
+  <a>
+    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height=56/>
+  </a>
+  <a>
+    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height=56/>
+  </a>
+  <a>
+    <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" height=56/>
+  </a>
+</div>
+
+
 
 ## Estatística
 
