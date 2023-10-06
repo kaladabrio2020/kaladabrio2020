@@ -40,10 +40,10 @@
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 
 -------
-<div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaladabrio2020&theme=default&utcOffset=8"/>
-  <img height="195em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaladabrio2020&theme=default"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaladabrio2020&theme=default"/>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaladabrio2020&theme=tokyonight&utcOffset=8"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaladabrio2020&theme=tokyonight"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaladabrio2020&theme=tokyonight"/>
 
 </div>
 
