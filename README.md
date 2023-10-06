@@ -39,7 +39,8 @@
 [![jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)](https://github.com/kaladabrio2020/AnalisandoFortunas)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 
--------
+## Estatística
+
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaladabrio2020&theme=tokyonight&utcOffset=8"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaladabrio2020&theme=tokyonight"/>
