@@ -25,7 +25,7 @@
   
 ## Tecnologias e Ferramentas
 
-<div> 
+<div align=center> 
   
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height=60/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"  height=60/>
@@ -35,6 +35,9 @@
   <a href="https://www.gnome.org/">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"   height="60"/>
   </a> 
+  <a>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg"    height="60"/>
+  </a>
   <a href="https://code.visualstudio.com/">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"  height="60"/>
   </a>
