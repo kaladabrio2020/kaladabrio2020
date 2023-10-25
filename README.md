@@ -25,31 +25,23 @@
   
 ## Tecnologias e Ferramentas
 
-<div>
-  <a>
-    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height=56/>
-  </a>
-  <a>
-    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height=56/>
-  </a>
-  <a>
-    <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" height=56/>
-  </a>
-</div>
-
-<div>
+<div> 
+  
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height=60/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"  height=60/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"  height=60/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"        height=60/><br>
+  
   <a href="https://www.gnome.org/">
-    <img src="https://img.shields.io/badge/GNOME-4A86CF.svg?style=for-the-badge&logo=GNOME&logoColor=white"   height="25"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"   height="60"/>
   </a> 
-  <a href="https://www.gnome.org/">
-    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"     height="25"/>
-  </a>
   <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" height="25"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"  height="60"/>
   </a>
-    <a href="https://github.com/kaladabrio2020/AnalisandoFortunas">
+  <a href="https://github.com/kaladabrio2020/AnalisandoFortunas">
     <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" height="25"/>
   </a>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" height=60/>
   
 </div>
       
