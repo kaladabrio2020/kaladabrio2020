@@ -41,9 +41,6 @@
   <a href="https://code.visualstudio.com/">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"  height="60"/>
   </a>
-  <a href="https://github.com/kaladabrio2020/AnalisandoFortunas">
-    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" height="25"/>
-  </a>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" height=60/>
   
 </div>
