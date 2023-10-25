@@ -26,6 +26,18 @@
 ## Tecnologias e Ferramentas
 
 <div>
+  <a>
+    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height=56/>
+  </a>
+  <a>
+    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height=56/>
+  </a>
+  <a>
+    <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" height=56/>
+  </a>
+</div>
+
+<div>
   <a href="https://www.gnome.org/">
     <img src="https://img.shields.io/badge/GNOME-4A86CF.svg?style=for-the-badge&logo=GNOME&logoColor=white"   height="25"/>
   </a> 
@@ -42,17 +54,7 @@
 </div>
       
 
-<div>
-  <a>
-    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height=56/>
-  </a>
-  <a>
-    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height=56/>
-  </a>
-  <a>
-    <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" height=56/>
-  </a>
-</div>
+
 
 
 
