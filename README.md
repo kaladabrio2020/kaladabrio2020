@@ -26,12 +26,7 @@
 ## Tecnologias e Ferramentas
 
 <div align=center> 
-  
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height=60/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"  height=60/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"  height=60/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"        height=60/><br>
-  
+
   <a href="https://www.gnome.org/">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"   height="60"/>
   </a> 
@@ -41,8 +36,20 @@
   <a href="https://code.visualstudio.com/">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"  height="60"/>
   </a>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" height=60/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" height=60/><br>
+
+  <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" height=60/>
   
+  
+  
+  
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" height=60/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height=60/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"  height=60/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"  height=60/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"        height=60/><br>
+  
+
 </div>
       
 
