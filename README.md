@@ -22,7 +22,8 @@
 * Analise de dados
 
 
-  
+&nbsp;
+
 ## Tecnologias e Ferramentas
 
 <div align=center> 
