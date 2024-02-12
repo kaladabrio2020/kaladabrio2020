@@ -16,7 +16,7 @@
   
 </div>
 
-* Faço Data Science na [Universidade Federal do Ceará](https://www.ufc.br/)
+* Faço Ciência de Dados na [Universidade Federal do Ceará](https://www.ufc.br/)
 * Machine Learning & Analise de dados
 * Entusiasta pelo desenvolvimento front-end (react-native & react)
 
