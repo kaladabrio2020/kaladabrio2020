@@ -2,11 +2,11 @@
 
 <div> 
   
-  <a href="http://mateus.1090ptbr0@gmail.com" alt="Gmail">
+  <a href="https://mateus.1090ptbr0@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" height="25"  />
   </a>
   
-  <a href="www.linkedin.com/in/mateus-sousa-do-carmo-737696268">
+  <a href="https://www.linkedin.com/in/mateus-sousa-do-carmo-737696268" alt="linkdin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
   </a>
   
