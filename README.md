@@ -43,7 +43,7 @@
   
 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" height=60/>
-  <img src=" https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg"   height=60/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg"   height=60/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"     height=60/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"      height=60/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"      height=60/>
