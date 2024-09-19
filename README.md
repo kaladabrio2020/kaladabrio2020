@@ -17,8 +17,20 @@
 </div>
 
 * Faço Ciência de Dados na [Universidade Federal do Ceará](https://www.ufc.br/)
-* Machine Learning & Analise de dados
+* Machine Learning
+  * Sklearn
+  * Tensorflow
+  * Pytorch
+    
+* Analise de dados
+  * Pandas
+  * Matplotlib
+  * PySpark
+  * Polars
+  * R
+    
 * Entusiasta pelo desenvolvimento front-end (react-native & react)
+* Certificado Aws Cloud Practitioner
 
 
 &nbsp;
