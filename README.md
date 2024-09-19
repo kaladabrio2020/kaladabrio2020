@@ -32,8 +32,7 @@
 * Entusiasta pelo desenvolvimento front-end (react-native & react)
 * Certificado Aws Cloud Practitioner
 
-## Minhas certificações
-* [certificados](/certificações/)
+## [Minhas certificações](/certificações/)<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Symbols/Information.png" width="20" height="20"/>
 
 
 &nbsp;
