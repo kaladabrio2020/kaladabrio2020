@@ -32,6 +32,9 @@
 * Entusiasta pelo desenvolvimento front-end (react-native & react)
 * Certificado Aws Cloud Practitioner
 
+## Minhas certificações
+* [certificados](/certificações/)
+
 
 &nbsp;
 
